@@ -23,7 +23,7 @@ Sugar to create a widget
 ## MIT Licenced
 
 
-  [1]: https://secure.travis-ci.org/Raynos/dom-widget.png
-  [2]: http://travis-ci.org/Raynos/dom-widget
-  [3]: http://ci.testling.com/Raynos/dom-widget.png
-  [4]: http://ci.testling.com/Raynos/dom-widget
+  [1]: https://secure.travis-ci.org/Colingo/dom-widget.png
+  [2]: http://travis-ci.org/Colingo/dom-widget
+  [3]: http://ci.testling.com/Colingo/dom-widget.png
+  [4]: http://ci.testling.com/Colingo/dom-widget
