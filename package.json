@@ -23,8 +23,12 @@
   },
   "devDependencies": {
     "tape": "~0.2.2",
-    "browserify": "https://github.com/Colingo/node-browserify/tarball/master",
-    "testem": "~0.2.55"
+    "browserify": "https://github.com/Raynos/node-browserify/tarball/master",
+    "testem": "~0.2.55",
+    "dom-reduce": "~1.0.0",
+    "reducers": "~3.0.0-alpha",
+    "reducible": "~1.0.5",
+    "browservefy": "0.0.2"
   },
   "licenses": [
     {
