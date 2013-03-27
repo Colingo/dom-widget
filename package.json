@@ -19,7 +19,7 @@
   "dependencies": {
     "global-scope": "~0.1.4",
     "insert": "~1.0.1",
-    "unpack-html": "~1.0.3"
+    "unpack-html": "~2.0.1"
   },
   "devDependencies": {
     "tape": "~0.2.2",
