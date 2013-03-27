@@ -1,6 +1,6 @@
 {
   "name": "dom-widget",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Sugar to create a widget",
   "keywords": [],
   "author": "Colingo <raynos2@gmail.com>",
